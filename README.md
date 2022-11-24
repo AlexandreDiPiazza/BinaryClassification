@@ -5,7 +5,7 @@
 We study 4 different NN architectures to find the order of magnitude on 2 didits, and compare the performance
 of each model.
 
-##Running the program 
+## Running the program 
 ***
 The main file is test.py, it requires no arguments. It executes only one model with 30 epochs and 2
 different runs. It prints the results in the terminal and runs for around 8min on a 
@@ -18,7 +18,7 @@ to 10. For all the results, it runs for around 1 hour.
 
 To run the code : python test.py
 
-##Files : 
+## Files : 
 ***
 Cross_validation.py : performs cross validation to choose best hyperparameters
 dlc_practical_prologue : loads the data
@@ -27,14 +27,14 @@ tools.py : include useful functions
 Model_Architectures : contains a python file for each model architecture
 
 
-##Librairies :
+## Librairies :
 ***
 Python 3.7
 PyTorch
 Pandas
 Matplotlib
 
-#Authors: 
+## Authors: 
 ***
 Alexandre Di Piazza
 Elodie Adam
